@@ -1,0 +1,56 @@
+/*
+Theme Specific Core HTML Elements Styling
+*/
+
+html {
+	font-size: 100%;
+  font-family: 'Helvetica Neue';
+}
+body {
+  font-family: 'HelveticaNeueGreek Condensed', 'Helvetica Neue';
+  font-size: .875em;
+  line-height: 1.6em;
+  border-top: 7px solid #90A860;
+  background-image: url(../../images/evo-naga.png);
+  background-color: #1d1d1d;
+  color: #666;
+}
+a{
+color: #90A860;
+text-decoration: none;
+font-family: 'HelveticaNeueGreek Condensed', 'Helvetica Neue';
+}
+
+h1, h2, h3, h4 {font-family: 'HelveticaNeueGreek Condensed', 'Helvetica Neue';}
+
+h1 {
+font-size: 34px;
+color: #000;
+font-weight: inherit;
+margin:0;
+padding:20px 0;
+line-height:1em;
+}
+
+h2, h3{
+font-size:2em;
+margin: 20px 0;
+color: #000; 
+font-weight: inherit;
+line-height:1em;
+}
+
+
+h4 {
+  font-size: 1.2em; 
+  font-weight: 700
+}
+
+img{
+  max-width:100%;
+}
+blockquote {
+  font-family: 'HelveticaNeueGreek Condensed', 'Helvetica Neue';
+    font-style: italic;
+    margin: 10px 0;  
+}
